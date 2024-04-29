@@ -50,3 +50,22 @@ footer {
     text-align: center;
     padding: 10px 0;
 }
+
+/* New classes */
+.hidden {
+    display: none;
+}
+
+.champion {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.champion img {
+    width: 100px;
+    height: 100px;
+}
+
+.champion div {
+    margin-top: 5px;
+}
